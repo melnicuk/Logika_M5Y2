@@ -22,6 +22,7 @@ header {
     padding: 0 5vw;
     box-sizing: border-box;
     text-align: right;
+    border-color:blueviolet;
 }
 
 .header_left p {
